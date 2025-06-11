@@ -1,6 +1,6 @@
 # codsoft
 
-### 📊 CodSoft Data Science Internship – Machine Learning Projects
+###  CodSoft Data Science Internship – Machine Learning Projects
 
 Welcome to my GitHub repository for the **CodSoft Data Science Internship**, where I worked on real-world machine learning tasks. These projects strengthened my data science skills in Python through hands-on model building, evaluation, and visualization.
 
